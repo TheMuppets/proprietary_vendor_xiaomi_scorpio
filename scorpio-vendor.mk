@@ -14,7 +14,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/scorpio/proprietary/vendor/etc/camera/imx318_primax_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/imx318_primax_chromatix.xml \
     vendor/xiaomi/scorpio/proprietary/vendor/etc/camera/imx318_semco_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/imx318_semco_chromatix.xml \
     vendor/xiaomi/scorpio/proprietary/vendor/etc/camera/msm8996_camera.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/msm8996_camera.xml \
-    vendor/xiaomi/scorpio/proprietary/system/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/sensors/sensor_def_qcomdev.conf \
+    vendor/xiaomi/scorpio/proprietary/vendor/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sensor_def_qcomdev.conf \
     vendor/xiaomi/scorpio/proprietary/vendor/lib64/hw/fingerprint.fpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.fpc.so \
     vendor/xiaomi/scorpio/proprietary/vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb \
     vendor/xiaomi/scorpio/proprietary/vendor/etc/acdbdata/Forte/Forte_General_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Forte/Forte_General_cal.acdb \
